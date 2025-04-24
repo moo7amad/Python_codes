@@ -14,7 +14,7 @@ File Structure:
 - users.json: Contains user details such as first_name, last_name, email, company_id, tokens, active_status, and email_status
 - output.txt: The generated report file listing company details, user email statuses, and updated token balances
 
-Requirements"
+Requirements:
 - Python 3.x
 - pandas
 
